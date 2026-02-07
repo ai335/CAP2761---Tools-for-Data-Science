@@ -1,8 +1,8 @@
 # CAP2751 - Tools for Data Science
 
-**Name: Aidan Singh**<br/>
-**Professor: Prof. Scott Hammond**<br/>
-**Course Number: CAP2751**<br/><br/>
+**Name:** Aidan Singh<br/>
+**Professor:** Prof. Scott Hammond<br/>
+**Course Number:** CAP2751<br/><br/>
 
 **Resources:**
 
